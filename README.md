@@ -1,4 +1,4 @@
-#Osclass with Vagrant and Puppet
+# Osclass with Vagrant and Puppet
 
 1. Install VirtualBox
 2. Install Vagrant
@@ -10,7 +10,7 @@
 8. ????
 9. PROFIT
 
-###Administrator account (http://local.osclass.dev/osclass/oc-admin)
+### Administrator account (http://local.osclass.dev/osclass/oc-admin)
 - username: **admin**
 - password: **osclass**
 
